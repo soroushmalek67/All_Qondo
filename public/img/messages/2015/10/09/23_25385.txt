@@ -1,0 +1,5 @@
+multi tasking
+mysql views
+how does laravel words
+laravel ka globel object
+what is namespace

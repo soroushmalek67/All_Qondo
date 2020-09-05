@@ -1,0 +1,85 @@
+/*----------------------------------
+
+	Theme Name: California
+	----------------------
+		
+	/* #Malibu Template
+	================================================== */	
+	
+	
+	/********* Malibu Style **********/	
+	
+	.top-bar{background: #f5f5f5; margin-bottom:0; box-shadow:none; }
+	.top-bar h6 i, .top-inf h6 i{color:#0099ff}
+	.top-bar h6 {font-family: 'Montserrat Alternates', 'Roboto', sans-serif; font-weight:400}
+	.blox.dark .vc_progress_bar .vc_single_bar .vc_label {color: #fff;}
+	.breadcrumbs-w {background: #FCFCFC; max-width: none;}
+	#headline h3{font-size: 36px; font-weight: 300;}
+	#footer { background: #2b363d;}
+	.footer-in h5.subtitle, .toggle-top-area h5.subtitle { font-family: 'Montserrat Alternates', 'Roboto', sans-serif;color: #fffffd; margin: 0; position: relative; font-size:21px; letter-spacing:-1px; font-weight:bold; text-transform:none; }
+	.footer-in h5.subtitle:after{content: ""; margin: 8px 0 20px; height: 0; display: block; position: relative; width: 24px; border-bottom: 3px solid #2ba6d8;}
+	.footer-in p {color: #fff; }
+	.footer-in .contact-inf input, .footer-in .contact-inf textarea { display: block; min-width: 97%; margin: 10px 0; background: #34434d; color: #ccc; border: 1px solid #555e64; font-family: Arial, Helvetica, sans-serif; font-size: 12px; padding: 10px 0px 10px 12px;}
+	.footer-in .contact-inf input:focus, .footer-in .contact-inf textarea:focus {border: 1px solid #fff}
+	.footer-in .contact-inf button { padding: 12px 18px; font-size: 12px; letter-spacing:1px; color: #fff; background: #2ba6d8; float: left; }
+	.footbot .container{border-top:1px solid rgba(102, 111, 123, 0.2)}
+	.footer-navi { float: left; line-height: 60px; font-size: 13px;  color: #666f7b; font-weight: 500; }
+	.toggle-top-area .widget ul li:hover, #footer .footer-in .widget ul li:hover {background: none;}
+	#footer .side-list li:hover img, .toggle-top-area .side-list li:hover img {background: #2ba6d8;}
+	.footbot {background: none;}
+	#scroll-top a:hover {background-color: #2ba6d8;}
+	.colorf{color:#2ba6d8;}
+	.colorb{background-color:#2ba6d8;}
+	#social-media.blox .social-media a i{width:70px;}
+	.w-header-type-10 #nav a {font-family: 'Montserrat Alternates', sans-serif;}
+
+	/********** Malibu Blox **********/
+	
+	.blox.dark a.magicmore { color:#f08484;}
+	.blox.dark a.magicmore:after { border-color:#f08484;}
+	
+	/********* Malibu Contact Form **********/
+	
+	.contact-form {border: 0; text-align:left;}
+	.contact-infor {background: #2d2d2d;padding: 25px;border-radius: 6px; color:#fff;}
+	.contact-inf h4 {color:#fff;font-weight: 600;}
+	.contact-inf p {color:#f5f5f5;text-indent: 20px;}
+	.contact-form p { color: #555; }
+	.contact-form input { width: auto; display: block; height: 45px; padding-left: 15px; background: #f7f7f7;}
+	.contact-form textarea { display: block; width: 100%; height: 110px; padding: 5px 15px; background: #f7f7f7;}
+	.contact-form textarea:focus, .contact-form input:focus { background: #fff; -moz-box-shadow: 0 0 5px #30a8da; -webkit-box-shadow: 0 0 5px #30a8da; box-shadow: 0 0 5px #30a8da; border: 1px solid #30a8da; }
+	.contact-form input, .contact-form textarea { border: 1px solid #E3E3E3; color: #555; width: 100%; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+	.contact-form .btnSend { width: 220px; color: #4b4f5a; background: none; border: 2px solid #4b4f5a; text-transform: uppercase; padding: 14px 26px; letter-spacing: 0.6px; font-size: 13px; height: 48px; font-weight: 600; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;}
+	.blox.dark .contact-form .btnSend {border-color:#fff;}
+	.contact-form input, .contact-form textarea, .contact-form .btnSend { font-family: Arial, sans-serif; color:#fff;}
+	.contact-form .btnSend:hover , .blox.dark .contact-form .btnSend:hover { background: #2ba6d8; border-color: #2ba6d8;}
+	.contact-info h5 { margin-bottom: 15px; }
+	.contact-info p { margin:0; font-size: 13px; padding: 7px 0; font-weight:400; color: #555;}
+	.contact-info i { font-size: 17px; margin-right: 10px; color: #e84c3d; }
+	.our-map:before{content: ''; background: url(../images/map.png) repeat-x 0 0;height: 4px; overflow: hidden; width: 100%; margin: 0; display:block;}
+	#nav .btnSend { background:none; padding:8px 16px; font-size:11px; font-weight:600; color:#797979; border:2px solid #e9e9e9; box-shadow:none; text-transform:uppercase;}
+	#wrap .darkness .contact-form input, #wrap .darkness .contact-form textarea {background: rgba(85, 85, 85, 0.71); border:0; border-radius: 4px;}
+	#wrap .darkness .contact-form textarea:focus, #wrap .darkness .contact-form input:focus {background: rgba(226, 226, 226, 1); color: #444;}	
+	
+	
+	/********** Malibu Base **********/
+	
+	body { font-family: 'Roboto', Helvetica, Arial, sans-serif;}
+	h1, h2, h3, h4 , h5 , h6 { font-family: 'Source Sans Pro',  Helvetica, Arial, sans-serif; }
+	h5.title-bold, h6.w-title { font-size:14px; font-weight:600; letter-spacing:1.6px; text-transform:uppercase; }
+	li h1, li h2, li h3, li h4, li h5, li h6 { font-family: 'Source Sans Pro',  Helvetica, Arial, sans-serif;}
+
+	
+	
+	/********** Malibu Portfolio *********/
+	
+	.latest-works{background:none; padding:0}
+	nav.primary .portfolioFilters a { border-radius:0; color: #777; padding: 8px 24px; margin: 3px 2px; font-size: 11px; font-weight: 700; text-transform: uppercase; border: 1px solid #dedede;}
+	nav.primary .portfolioFilters a:hover { color: #0099ff; border-color: #dedede;}
+	nav.primary .portfolioFilters a.selected, nav.primary ul li a:active { border: 1px solid #0099ff; color: #0099ff;}
+	
+	
+	
+
+	
+/* -------- end ----------- */	

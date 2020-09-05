@@ -1,0 +1,4 @@
+[18-Apr-2016 15:53:28 UTC] PHP Warning:  get_headers(): Failed to enable crypto in /home/firmogram2015/public_html/public/blog/wp-content/plugins/ultimate-social-media-plus/libs/controllers/sfsi_socialhelper.php on line 562
+[18-Apr-2016 15:53:28 UTC] PHP Warning:  get_headers(https://www.googleapis.com/plus/v1/people/104925233774964257643?key=AIzaSyBmcCQlD9huhi4i5oA34kXxoaoXdMkza7Q): failed to open stream: operation failed in /home/firmogram2015/public_html/public/blog/wp-content/plugins/ultimate-social-media-plus/libs/controllers/sfsi_socialhelper.php on line 562
+[27-Aug-2016 10:37:06 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/firmogram2015/public_html/public/blog/wp-includes/class-wp-xmlrpc-server.php on line 580
+[10-Nov-2016 09:39:01 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/firmogram2015/public_html/public/blog/wp-includes/class-wp-xmlrpc-server.php on line 580

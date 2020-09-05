@@ -1,0 +1,99 @@
+/*----------------------------------
+
+	Theme Name: California
+	----------------------
+		
+	/* #Sacramento Template
+	================================================== */
+	
+	h1, h2, h3, h4, h5, h6 { font-family:'Montserrat','Roboto', Helvetica, Arial, sans-serif;}
+	a.button { font-family:'Montserrat','Roboto', Helvetica, Arial, sans-serif;}
+	
+	.colorb { background-color:#de4217;}
+	.colorf { color:#de4217;}
+	
+	
+		/* # Main Menu
+	================================================== */
+	#nav a:hover, #nav li:hover > a { color:#de4217;}
+	#nav > li.current:after { background:#de4217;}
+	#header.sticky #nav-wrap #nav #nav > li:hover > a { color:#de4217; }
+	#nav ul li a:hover, #nav li.current ul li a:hover, .nav-wrap2 #nav ul li a:hover, .nav-wrap2.darknavi #nav ul li a:hover, #nav ul li.current > a , #nav ul li:hover > a { color:#de4217; }
+	#header.sticky .nav-wrap2.darknavi #nav > li > a:hover { color:#de4217; }
+	.w-header-type-10 #nav ul li a:hover, .w-header-type-10 #nav li.current ul li a:hover, .w-header-type-10 #nav ul li.current > a, .w-header-type-10 #nav ul li:hover > a {color:#de4217;}
+	.w-header-type-10#header.sticky #nav-wrap #nav > li:hover, .w-header-type-10 #nav > li:hover {background-color: #de4217; }
+	#menu-icon:hover, #menu-icon.active {background-color: #de4217; }
+	#nav > li:hover > a{ color:#de4217;}
+	#header.box-menu .nav-wrap2 #nav > li.current { border-bottom-color:#de4217;}
+	#header.box-menu .nav-wrap2 #nav > li ul { border-top-color:#de4217;}
+	#header.box-menu .nav-wrap2 #nav > li:hover { border-color:#de4217;}
+
+
+
+	/* # Recent work
+	================================================== */
+	.latest-works { background: none; }
+	nav.primary .portfolioFilters a { border-radius: 0; padding: 8px 24px; margin-left: 2px; margin-right: 2px; font-size: 12px; font-weight: 600; border: 1px solid #e3e3e3;}
+	nav.primary .portfolioFilters a:hover { color: #de4217; border-color: #e3e3e3;}
+	nav.primary .portfolioFilters a.selected, nav.primary ul li a:active { color: #fff; background-color: #de4217; border:1px solid #de4217;}
+
+	
+
+	/* # Footer
+	================================================== */
+	#wrap #footer { background: #22282f; border-top: none; }
+
+	/* Subtitle */
+	#footer .footer-in h5.subtitle { color: #fff; font-size:16px; line-height:1.5; font-weight:600; border-bottom:none; box-shadow:none; margin-bottom:5px; padding-bottom:5px;}
+	#footer .footer-in h5.subtitle:after{ content: ""; margin: 8px 0 20px; height: 0; display: block; position: relative; width: 40px; border-bottom: 4px solid #de4217;}
+	#footer .footer-in .widget { margin-bottom:30px;}
+
+	/* Lists */
+	.toggle-top-area .widget ul li:hover, #footer .footer-in .widget ul li:hover { background: transparent; }
+	#footer .side-list li:hover img, .toggle-top-area .side-list li:hover img { background: #de4217; }
+	.side-list li, #footer.litex .side-list li, .widget .side-list li { border-bottom: none; }
+
+	/* Tag Cloud */
+	#footer .tagcloud a { padding: 8px 14px; background: #1d2228; color: #acacac; }
+	#footer .tagcloud a:hover {  background: #de4217; }
+
+	/* Contact information */
+	#wrap .contact-inf { background: url(../images/world-map.png) no-repeat 52% 10px; margin-bottom: 40px;}
+	#wrap .contact-inf span { margin-bottom: 14px;}
+	#wrap .contact-inf i { margin-right: 7px; background-color: #DE4217; border-radius: 50%; padding: 6px 5px 5px 4px; font-size: 20px; vertical-align: middle; color: #fff; width: 33px; height: 33px; text-align: center; display: inline-block;}
+	#wrap .footer-in .contact-inf input, #wrap .footer-in .contact-inf textarea { width: 100%; border-radius: 0; box-shadow: none; background: #13171C; color: #ccc; border: 1px solid #29323d;  padding: 14px 0px 14px 12px;}
+	#wrap .footer-in .contact-inf input:focus, #wrap .footer-in .contact-inf textarea:focus {border: 1px solid #4b5969;}
+	#wrap .footer-in .contact-inf button { border-radius:0; padding:  18px;  letter-spacing:1px;  font-weight:bold; background:#00b4cc;  width:100%; text-transform:uppercase; color:#fff; font-size:11px; margin:0;}
+
+	/* Footer bottom */
+	#wrap .footbot { background-color: #1d2228; }
+	
+
+	/* # Callout
+	================================================== */
+	
+	.callout { min-height: 60px; border:1px solid #e5e5e5; }
+	.callout h1, .callout h2, .callout h3 { font-weight: 700; font-size: 25px; letter-spacing: -1.7px; }
+	.callout a.callurl { border:none;  font-weight: 600; background: #00b4cc;  color: #fff; letter-spacing: 1.6px; margin: 10px 0 10px 15px; box-shadow:none; border-radius: 3px; -webkit-transition: all 0.2s ease; -moz-transition: all 0.2s ease; -ms-transition: all 0.2s ease; -o-transition: all 0.2s ease; transition: all 0.2s ease; }
+	.callout a.callurl:hover { background: #ec5733; }
+	
+	@media only screen and (max-width: 767px) {
+	.callout i {margin-right:0;}
+	}	
+	
+
+	
+	/* Contact form7 
+	---------------- */	
+	#wrap .wpcf7 input[type="text"],
+	#wrap .wpcf7 input[type="password"],
+	#wrap .wpcf7 input[type="email"],
+	#wrap .wpcf7 textarea { width:100%; box-sizing:border-box; }
+	#wrap .wpcf7 input[type="text"],
+	#wrap .wpcf7 input[type="email"],
+	#wrap .wpcf7 textarea { min-width: 160px; background-color: #13171c; border-color: #29323d; margin-bottom: 0; border-radius: 4px; padding: 12px 15px; }
+	#wrap .wpcf7 .cf7-inline { display: inline-block; width: 32.842%; margin-right: 0; margin-bottom: 9px; }
+	#wrap .wpcf7 .wpcf7-submit { background-color: #00b4cc; padding: 15px 65px; border-radius: 0; border: none; }
+	
+	
+/* ------------------ */	

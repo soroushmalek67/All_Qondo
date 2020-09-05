@@ -1,0 +1,51 @@
+/*----------------------------------
+
+	Theme Name: California
+	----------------------
+		
+	/* # Irvine Template
+	================================================== */	
+
+	
+	/* Fonts */
+	h1 , h2 , h3 , h4 , h5 , h6 { font-family: 'Raleway','Roboto',  Helvetica, Arial, sans-serif; color:#000;}
+	 
+	.colorb { background-color:#fb4e1c;}
+	.colorf { color:#fb4e1c;}
+	
+	#headline { background:#fff; text-align:center;}
+
+
+
+	#wrap  .wpb_single_image.wpb_content_element { margin-bottom:0;}
+
+	.sidebar h4.subtitle, .widget h4.subtitle, .top-links { font-family:'Raleway','Roboto', sans-serif;}
+	
+	.icon-box12 h4 { font-size:16px; font-weight:700; text-transform:uppercase; margin-top:10px;}
+	.icon-box12 p { line-height:1.92;}
+	.icon-box11:hover i { background-color:#fb4e1c; border-color:#fb4e1c;}
+	.w-divider6 h3 { line-height:25px;}
+
+	
+	
+	#nav a { font-family:'Raleway','Roboto', sans-serif; letter-spacing:0.5px;}
+	#header.duplex-hd #nav > li:hover > a, #header.duplex-hd #nav > li.active > a, #nav.duplex-menu > li.current > a { color:#fb4e1c;}
+	
+	
+	nav.primary .portfolioFilters a { transform:none;}
+	nav.primary .portfolioFilters a:hover, nav.primary .portfolioFilters a.selected, nav.primary ul li a:active { color:#fb4e1c;}	
+	
+	
+	.latestposts-six .latest-title { font-weight:400; letter-spacing:0;}
+	.latestposts-five h3.latest-b2-title { font-size: 16px; letter-spacing: -0.4px; text-transform: uppercase;}
+	
+	#footer.litex { background:#fff; border-top:1px solid #e2e2e2;}
+	#footer.litex .footer-in h5.subtitle { border:none; text-shadow:none; text-transform:uppercase; font-size:20px; letter-spacing:0;}
+	#footer .footer-in { padding-top:40px; padding-bottom:50px;}
+	#footer.litex .textwidget, #footer.litex p { font-size:14px; font-weight:300; color:#707070; line-height:1.65;}
+	#footer.litex .side-list p { font-size:10px;}
+	#footer .widget ul.menu li { font-size:16px; font-family:'Raleway','Roboto', sans-serif;}
+	#footer.litex .footer-in .widget ul li a:hover { color:#fb4e1c;}
+
+	
+/* -------- end ----------- */	

@@ -1,0 +1,3 @@
+First Name ,Last Name ,Email ,telephone number ,bussiness name , postalcode,Main Categories IDs (Seprated by commas),Sub Categories IDs Seprated by commas,Province/State IDs for Services Seprated  by commas,City  IDs for Services Seprated  by commas
+John,David,jaoh@gmai..com,1234567,My Business,123,"52,72","64,92","2,3",8
+Note: Delete these three row before importing records,,,,,,,,,

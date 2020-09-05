@@ -1,0 +1,73 @@
+/*----------------------------------
+
+	Theme Name: California
+	----------------------
+		
+	/* # Berkeley Template
+	================================================== */	
+	.page-template-portfolio-php  .latest-works { padding-top:15px;}
+	.page-template-portfolio-php nav.primary .portfolioFilters { text-align:center;}
+	.works-item-dets-wrap { padding-top:30px;}
+	
+	/* Fonts */
+	h1 , h2 , h3 , h4 , h5 , h6 { font-family: 'Oswald','Roboto',  Helvetica, Arial, sans-serif; color:#000;}
+	
+	h3.latest-b2-title { letter-spacing:0 !important;}
+ 
+	.colorb { background-color:#de4217;}
+	.colorf { color:#de4217;}
+	
+	/* Base Elements */
+	h1.slog-t1 { font-size:80px; font-weight:bold; margin-bottom:25px;}
+	h2.slog-t2 { font-size:49px; text-align:center; margin:10px 0 25px; letter-spacing:-2px;}
+	.button,
+	button, a.button { position:relative; border: none; border-radius:1px; color: #fff; display: inline-block; font-size: 15px; line-height:1; font-weight: 600; cursor: pointer; line-height: 1; padding: 14px 20px;}	
+
+	#wrap  .wpb_single_image.wpb_content_element { margin-bottom:0;}
+	.wpb_gmaps_widget.orchid-map, .w-map { border:1px solid #d9d9d9; background:#fff; padding:12px;}
+	section.wpb_row.full-row .w-map { border:none; background:none; padding:0;}
+	.blog-single-post h1, .postshow1 h1 { letter-spacing:-2px;}
+	.our-team h2, .our-team h5 { padding-left:0; color:#292929; text-shadow:none; margin-bottom:10px; margin-top:10px; line-height:1.5;}
+	.our-team h5 { margin-bottom:16px;}
+	.sidebar h4.subtitle, .widget h4.subtitle, .top-links { font-family:'Oswald','Roboto', sans-serif;}
+	
+	.logo-wrap .logo { width:200px; height:100px; position:relative;}
+	.logo-wrap .logo img { max-height: 100%; position: absolute; left: 0; top: 0; bottom: 0; margin: auto;}	
+	
+	.our-clients-wrap.crsl { margin-top: 0; }
+	.our-clients-wrap.crsl ul.our-clients img { max-width: 100%; max-height: 100%; padding: 10px; background:#fff; border: 1px solid #f2f2f2; -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; -ms-transition: all .3s ease-in-out; -o-transition: all .3s ease-in-out; transition: all .3s ease-in-out; }
+	.our-clients-wrap.crsl ul.our-clients img:hover { border-bottom: 1px solid #de4217; box-shadow: 0 1px 7px 0 rgba(0,0,0,0.11);}
+	.jcarousel-next, .jcarousel-prev { top: 150px; }
+	.our-clients-wrap.crsl:after { display: none; }
+	
+	
+	#nav a { font-family:'Oswald','Roboto', sans-serif; letter-spacing:0.5px;}	
+	
+	
+	@media only screen and (min-width: 961px) {
+	.top-bar { background:#232829; border-bottom: 1px solid #4a4a4a; padding:0;  margin:0;}	
+	.top-links { color:#8a8a8a; padding-left:15px; font-size:12px;}
+		
+	#headline { padding: 38px 0px 22px; text-align:left; background:#f8f8f8;}
+	#headline h3 { margin:15px; letter-spacing:2px;}
+	.breadcrumbs-w { border-top:1px solid #d9d9d9; background:#f1f1f1;}
+	#header .alignright { line-height:65px;}
+	#header .vertical-space { height:6px;}
+		}
+	@media only screen and (max-width: 960px) {
+	
+	#header.sm-rgt-mn { background:#353c3e; border-bottom-color:#292929;}
+	#header.sm-rgt-mn #nav { border-color:#292929;}
+	.top-bar { background:#232829; border:none; margin:0;}
+	.top-links.lftflot {border:none;}	
+	}
+	
+	.latestposts-six .latest-title { font-weight:400; letter-spacing:0;}
+	
+	#footer { background:#1b1d1d;}
+	#footer .footer-in p { font-family: 'Domine',  Helvetica, Arial, sans-serif; font-size:13px; text-transform:none;}
+	#footer .footer-in h5.subtitle { font-size:20px; border:none; text-transform:none; box-shadow:none; margin-top:30px; color:#fff; text-shadow: 0 1px 2px rgba(0,0,0,0.7);}
+	#footer .footer-in .contact-inf input, #footer .footer-in .contact-inf textarea { background: none; color: #ccc; border: 2px solid #393939; font-size: 12px; border-radius: 0; }
+	#footer .footer-in .contact-inf button { padding: 14px 28px; font-size: 11px; font-weight:600; color:#fff; letter-spacing: 2px; background: #252525; border: none; float: left; margin-right:6px; }
+	
+/* -------- end ----------- */	

@@ -1,0 +1,66 @@
+widget_archives+++
+a:1:{s:12:"_multiwidget";i:1;}
+-------
+widget_calendar+++
+a:2:{i:1;a:1:{s:5:"title";s:8:"Calendar";}s:12:"_multiwidget";i:1;}
+-------
+widget_categories+++
+a:3:{i:3;a:4:{s:5:"title";s:0:"";s:5:"count";i:1;s:12:"hierarchical";i:0;s:8:"dropdown";i:0;}i:4;a:4:{s:5:"title";s:10:"CATEGORIES";s:5:"count";i:0;s:12:"hierarchical";i:0;s:8:"dropdown";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_meta+++
+a:1:{s:12:"_multiwidget";i:1;}
+-------
+widget_recent-comments+++
+a:1:{s:12:"_multiwidget";i:1;}
+-------
+widget_recent-posts+++
+a:3:{i:3;a:3:{s:5:"title";s:0:"";s:6:"number";i:5;s:9:"show_date";b:0;}i:4;a:3:{s:5:"title";s:12:"Recent Posts";s:6:"number";i:5;s:9:"show_date";b:1;}s:12:"_multiwidget";i:1;}
+-------
+widget_rss+++
+a:0:{}
+-------
+widget_search+++
+a:2:{i:3;a:1:{s:5:"title";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_tag_cloud+++
+a:4:{i:1;a:2:{s:5:"title";s:9:"Tag Cloud";s:8:"taxonomy";s:8:"post_tag";}i:2;a:2:{s:5:"title";s:0:"";s:8:"taxonomy";s:8:"post_tag";}i:3;a:2:{s:5:"title";s:4:"Tags";s:8:"taxonomy";s:8:"post_tag";}s:12:"_multiwidget";i:1;}
+-------
+widget_text+++
+a:3:{i:1;a:3:{s:5:"title";s:19:"Contact Information";s:4:"text";s:216:"<div class="contact-inf">
+<span><i class="fa-home"></i> 2013 Main St New York, NY 10044</span>
+<span><i class="fa-phone"></i> +1 234 5678</span>
+<span><i class="fa-envelope-o"></i> info@yoursite.com</span>
+</div>";s:6:"filter";b:0;}i:2;a:3:{s:5:"title";s:11:"Text Widget";s:4:"text";s:403:"Interactively incentivize team driven markets and accurate meta-services. Progressively engage cutting-edge catalysts for change after efficient potentialities. Professionally generate extensive process improvements for process-centric niche markets. Dramatically initiate end-to-end niches whereas integrated best practices. Professionally envisioneer ethical results rather than team building synergy.";s:6:"filter";b:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_webnuscontactform+++
+a:2:{i:1;a:2:{s:5:"title";s:0:"";s:5:"email";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnusinstagramwidget+++
+a:3:{i:1;a:3:{s:5:"title";s:9:"instagram";s:8:"username";s:6:"envato";s:5:"count";s:2:"12";}i:2;a:3:{s:5:"title";s:9:"Instagram";s:8:"username";s:6:"envato";s:5:"count";s:1:"8";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnuspostsliderwidget+++
+a:3:{i:1;a:2:{s:5:"title";s:11:"post slider";s:5:"count";s:1:"3";}i:2;a:2:{s:5:"title";s:12:"Posts Slider";s:5:"count";s:1:"3";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnus_latestposts+++
+a:3:{i:1;a:2:{s:5:"title";s:12:"Recent Posts";s:13:"numberOfPosts";s:1:"3";}i:2;a:2:{s:5:"title";s:12:"Recent Posts";s:13:"numberOfPosts";s:1:"4";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnus_latestworks+++
+a:2:{i:2;a:2:{s:5:"title";s:12:"Recent Works";s:13:"numberOfPosts";s:1:"3";}s:12:"_multiwidget";i:1;}
+-------
+widget_webnus_popularposts+++
+a:2:{i:1;a:2:{s:5:"title";s:13:"Popular Posts";s:13:"numberOfPosts";s:1:"4";}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_layered_nav_filters+++
+a:2:{i:2;a:1:{s:5:"title";s:0:"";}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_products+++
+a:2:{i:2;a:7:{s:5:"title";s:15:"RECENT PRODUCTS";s:6:"number";s:1:"5";s:4:"show";s:0:"";s:7:"orderby";s:4:"date";s:5:"order";s:4:"desc";s:9:"hide_free";i:0;s:11:"show_hidden";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_product_categories+++
+a:2:{i:2;a:6:{s:5:"title";s:18:"Product Categories";s:7:"orderby";s:5:"order";s:8:"dropdown";i:0;s:5:"count";i:0;s:12:"hierarchical";i:0;s:18:"show_children_only";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_woocommerce_widget_cart+++
+a:2:{i:2;a:2:{s:5:"title";s:4:"Cart";s:13:"hide_if_empty";i:0;}s:12:"_multiwidget";i:1;}
+-------
+widget_yflickr+++
+a:2:{i:1;a:2:{s:5:"title";s:6:"flickr";s:6:"flickr";s:143:"<script type="text/javascript" src="http://www.flickr.com/badge_code.gne?count=12&display=random&size=square&nsid=36587311@N08&raw=1"></script>";}s:12:"_multiwidget";i:1;}:"Product Categories","orderby":"order","dropdown":0,"count":0,"hierarchical":0,"show_children_only":0}}}
